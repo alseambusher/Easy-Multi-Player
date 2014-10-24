@@ -1,0 +1,6 @@
+*.swp
+*~
+*.log
+*.pyc
+.idea
+data.db

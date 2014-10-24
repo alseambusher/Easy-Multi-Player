@@ -1,0 +1,9 @@
+*.swp
+*~
+*.log
+*.pyc
+lib/*.pyc
+.idea
+data.db
+a.out
+log
